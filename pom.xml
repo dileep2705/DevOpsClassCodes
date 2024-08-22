@@ -8,6 +8,8 @@
     <version>2.0</version>
     <name>Vaadin Addressbook example</name>
 
+	<!-- Demo on Github Webhooks-->
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
